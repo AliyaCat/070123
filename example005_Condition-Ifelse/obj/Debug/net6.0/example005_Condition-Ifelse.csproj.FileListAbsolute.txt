@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\bin\Debug\net6.0\example005_Condition-Ifelse.exe
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\bin\Debug\net6.0\example005_Condition-Ifelse.deps.json
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\bin\Debug\net6.0\example005_Condition-Ifelse.runtimeconfig.json
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\bin\Debug\net6.0\example005_Condition-Ifelse.dll
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\bin\Debug\net6.0\example005_Condition-Ifelse.pdb
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.AssemblyInfo.cs
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.dll
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\refint\example005_Condition-Ifelse.dll
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.pdb
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\example005_Condition-Ifelse.genruntimeconfig.cache
+C:\Users\admin\Desktop\example\example005_Condition-Ifelse\obj\Debug\net6.0\ref\example005_Condition-Ifelse.dll
