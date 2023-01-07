@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\example\exanple003_sum\bin\Debug\net6.0\exanple003_sum.exe
+C:\Users\admin\Desktop\example\exanple003_sum\bin\Debug\net6.0\exanple003_sum.deps.json
+C:\Users\admin\Desktop\example\exanple003_sum\bin\Debug\net6.0\exanple003_sum.runtimeconfig.json
+C:\Users\admin\Desktop\example\exanple003_sum\bin\Debug\net6.0\exanple003_sum.dll
+C:\Users\admin\Desktop\example\exanple003_sum\bin\Debug\net6.0\exanple003_sum.pdb
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.AssemblyInfo.cs
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.dll
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\refint\exanple003_sum.dll
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.pdb
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\exanple003_sum.genruntimeconfig.cache
+C:\Users\admin\Desktop\example\exanple003_sum\obj\Debug\net6.0\ref\exanple003_sum.dll
